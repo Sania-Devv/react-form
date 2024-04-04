@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(255, 250, 245);
+}
+.form-container {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+
+}
+
+.form-container h2 {
+  text-align: center;
+  background-color: rgb(46, 166, 156);
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #eae3e3;
+  border-radius: 3px;
+}
+button{
+  background-color:rgb(7, 99, 83);
+  border: 'none';
+  color: 'white';
+  padding: '10px 20px';
+  text-align: 'center';
+  text-decoration: 'none';
+  display: 'inline-block';
+  font-size: '16px';
+  margin: '4px 2px';
+}
